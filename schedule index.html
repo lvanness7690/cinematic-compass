@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cinematic Compass Schedule</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+</head>
+<body>
+  <section class="section">
+    <div class="container">
+      <h1 class="title">Schedule</h1>
+      <main>
+        <div class="search-container">
+          <label for="show-search">Search for shows: </label>
+          <input type="text" id="show-search" placeholder="Enter show name">
+          <button onclick="addToSchedule()">Add to Schedule</button>
+        </div>
+        <ul id="schedule-list"></ul>
+      </main>
+    </div>
+  </section>
+
+  <script src="./script.js"></script>
+</body>
+</html>
