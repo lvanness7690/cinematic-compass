@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Error fetching search results:', error);
         });
     }
-
     function appendShowToList(show) {
         const listItem = document.createElement('li');
         const title = document.createElement('h2');
