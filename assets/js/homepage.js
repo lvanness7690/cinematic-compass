@@ -11,5 +11,5 @@ document.getElementById('loadTrending').addEventListener('click', function() {
 });
 
 document.getElementById('viewSchedule').addEventListener('click', function() {
-    window.location.href = 'schedule.html'; // Navigate to the schedule page
+    window.location.href = 'schedule index.html'; // Navigate to the schedule page
 });
