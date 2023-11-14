@@ -2,7 +2,7 @@ document.getElementById('searchButton').addEventListener('click', function() {
     const query = document.getElementById('searchInput').value.trim();
     if (query) {
         // Redirect to the search results page with the query parameter
-        window.location.href = `search-results.html?query=${encodeURIComponent(query)}`;
+        window.location.href = `results.html?query=${encodeURIComponent(query)}`;
     }
 });
 
