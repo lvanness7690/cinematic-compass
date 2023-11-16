@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
         const addButton = document.createElement('button');
         addButton.textContent = 'Add to Schedule';
-        addButton.classList.add('button', 'is-primary'); // Bulma classes for buttons, 'is-primary' for primary color
+        addButton.classList.add('button', 'is-primary', 'is-rounded'); // Bulma classes for buttons, 'is-primary' for primary color
         addButton.onclick = function() { addToSchedule(show); };
         listItem.appendChild(addButton);
     

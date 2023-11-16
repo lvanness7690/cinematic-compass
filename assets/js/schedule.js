@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
                 // Remove button
                 const removeButton = document.createElement('button');
-                removeButton.classList.add('button', 'is-small'); // Bulma classes for a primary button
+                removeButton.classList.add('button', 'is-small', 'is-rounded'); // Bulma classes for a primary button
                 removeButton.textContent = 'Remove from Schedule';
                 removeButton.onclick = function() { removeFromSchedule(index); };
                 listItem.appendChild(removeButton);
