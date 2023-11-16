@@ -45,8 +45,19 @@ document.addEventListener('DOMContentLoaded', function() {
         listItem.appendChild(summary);
     
         const addButton = document.createElement('button');
-        addButton.textContent = 'Add to Schedule';
         addButton.classList.add('button', 'is-primary', 'is-rounded'); // Bulma classes for buttons, 'is-primary' for primary color
+        
+        // Create Font Awesome icon element
+        const icon = document.createElement('i');
+        icon.classList.add('fas', 'fa-calendar');
+        
+        // Add icon to button
+        addButton.appendChild(icon);
+        
+        // Add text node for button text
+        const buttonText = document.createTextNode(' Add to Schedule');
+        addButton.appendChild(buttonText);
+        
         addButton.onclick = function() { addToSchedule(show); };
         listItem.appendChild(addButton);
     
