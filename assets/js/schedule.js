@@ -39,11 +39,23 @@ document.addEventListener('DOMContentLoaded', function() {
     
                 // Remove button
                 const removeButton = document.createElement('button');
-                removeButton.classList.add('button', 'is-small', 'is-rounded'); // Bulma classes for a primary button
-                removeButton.textContent = 'Remove from Schedule';
+                removeButton.classList.add('button', 'is-danger', 'is-rounded'); 
+                
+                // Create Font Awesome icon element
+                const icon = document.createElement('i');
+                icon.classList.add('fas', 'fa-trash');
+                icon.style.marginRight = '8px';
+                
+                // Add icon to button
+                removeButton.appendChild(icon);
+                
+                // Add text node for button text
+                const buttonText = document.createTextNode(' Remove from Schedule');
+                removeButton.appendChild(buttonText);
+                
                 removeButton.onclick = function() { removeFromSchedule(index); };
                 listItem.appendChild(removeButton);
-    
+                
                 scheduledShowsList.appendChild(listItem);
             })
             .catch(error => {
