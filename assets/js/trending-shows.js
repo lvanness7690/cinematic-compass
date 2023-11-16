@@ -32,19 +32,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function appendShowToList(show) {
         const listItem = document.createElement('li');
+        listItem.classList.add('box'); // Bulma class for a box container
+    
         const title = document.createElement('h2');
         title.textContent = show.title || show.name;
+        title.classList.add('title'); // Bulma class for titles
         listItem.appendChild(title);
-
+    
         const summary = document.createElement('p');
         summary.innerHTML = show.summary || 'No summary available.';
+        summary.classList.add('content'); // Bulma class for content text
         listItem.appendChild(summary);
-
+    
         const addButton = document.createElement('button');
         addButton.textContent = 'Add to Schedule';
+        addButton.classList.add('button', 'is-primary'); // Bulma classes for buttons, 'is-primary' for primary color
         addButton.onclick = function() { addToSchedule(show); };
         listItem.appendChild(addButton);
-
+    
         trendingShowsList.appendChild(listItem);
     }
 
