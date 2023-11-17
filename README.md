@@ -4,7 +4,7 @@
 
 As someone who wants to search for tv shows,
 I WANT to search for shows based on popularity,
-SO THAT I can make a schedule of shows to watchg
+SO THAT I can make a schedule of shows to watch
 
 ## Description
 
@@ -38,7 +38,7 @@ lg-2121
 biancamistretta
 [https://github.com/biancamistretta]
 
-## Third Party API
+## Third Party Add Ons
 
 Trakt API
 
@@ -47,6 +47,11 @@ Trakt API
 TVMaze API
 
 [https://static.tvmaze.com/apidoc/]
+
+Bulma CSS Framework
+
+[https://bulma.io]
+
 
 ## License
 
