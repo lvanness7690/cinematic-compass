@@ -23,8 +23,6 @@ Cinematic Compass is an engaging and user-friendly platform that caters to TV sh
 
 ## Installation
 
-## Installation
-
 To install Event Connect, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
@@ -37,8 +35,6 @@ To install Event Connect, follow these steps:
 8. Access the application through your web browser at `http://localhost:3000`.
 9. You may need to register an account or log in to access certain features, depending on the functionality implemented in the application.
 10. Enjoy using Event Connect to explore upcoming events, connect with other users, and share experiences!
-
-## Technologies Used
 
 ## Technologies Used
 
