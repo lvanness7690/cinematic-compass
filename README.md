@@ -1,5 +1,5 @@
-# Cinematic Compass
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[# Cinematic Compass
+\[!\[License: MIT\](https://img.shields.io/badge/License-MIT-yellow.svg)\](https://opensource.org/licenses/MIT)
 
 ## User Story
 
@@ -13,7 +13,7 @@ Cinematic Compass is an engaging and user-friendly platform that caters to TV sh
 
 ## Screenshot 
 
-![Cinematic Compass Demo](/assets/cinematic-compass-demo.gif)
+!\[Cinematic Compass Demo\](/assets/cinematic-compass-demo.gif)
 
 ## Installation
 
@@ -36,16 +36,16 @@ To install Event Connect, follow these steps:
 
 ## Technologies Used
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) Bulma
-- ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) Google Fonts
-- ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) Font Awesome
+- !\[HTML5\](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5
+- !\[CSS3\](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3
+- !\[JavaScript\](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+- !\[Bulma\](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) Bulma
+- !\[Google Fonts\](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) Google Fonts
+- !\[Font Awesome\](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) Font Awesome
 
 ## Live Application
 
-[Cinematic Compass Website](https://lvanness7690.github.io/work-day-cinematic-compass/)
+\[Cinematic Compass Website\](https://lvanness7690.github.io/work-day-cinematic-compass/)
 
 ## Usage
 
@@ -63,36 +63,37 @@ To search for a show click on the text field and type your query then click on t
 
 ## Credits
 
-- lvanness7690: [GitHub Profile](https://github.com/lvanness7690)
-- lg-2121: [GitHub Profile](https://github.com/lg-2121)
-- biancamistretta: [GitHub Profile](https://github.com/biancamistretta)
+- lvanness7690: \[GitHub Profile\](https://github.com/lvanness7690)
+- lg-2121: \[GitHub Profile\](https://github.com/lg-2121)
+- biancamistretta: \[GitHub Profile\](https://github.com/biancamistretta)
 
 ## Third Party Add Ons
 
 <<<<<<< HEAD
-- Trakt API: [API Documentation](https://trakt.docs.apiary.io/#)
-- TVMaze API: [API Documentation](https://static.tvmaze.com/apidoc/)
-- Bulma CSS Framework: [Bulma](https://bulma.io)
+- Trakt API: \[API Documentation\](https://trakt.docs.apiary.io/#)
+- TVMaze API: \[API Documentation\](https://static.tvmaze.com/apidoc/)
+- Bulma CSS Framework: \[Bulma\](https://bulma.io)
 =======
 biancamistretta
-[https://github.com/biancamistretta]
+\[https://github.com/biancamistretta\]
 
 ## Third Party Add Ons
 
 Trakt API
 
-[https://trakt.docs.apiary.io/#]
+\[https://trakt.docs.apiary.io/#\]
 
 TVMaze API
 
-[https://static.tvmaze.com/apidoc/]
+\[https://static.tvmaze.com/apidoc/\]
 >>>>>>> b2cfc18fc58560aa15d5124fb13d1c023289b565
 
 Bulma CSS Framework
 
-[https://bulma.io]
+\[https://bulma.io\]
 
 
 ## License
 
 Please refer to the license in the repo
+](../work-day-scheduler/LICENSE.txt)
