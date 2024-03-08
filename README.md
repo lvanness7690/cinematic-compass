@@ -1,17 +1,11 @@
 # Cinematic Compass
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents
-* [Description](#description)
-* [Screenshot](#screenshot)
-* [Installation](#installation)
-* [Technologies Used](#technologies-used)
-* [Live Application](#live-application)
-* [Usage](#usage)
-* [Features](#features)
-* [Credits](#credits)
-* [Third Party Add Ons](#third-party-add-ons)
-* [License](#license)
+## User Story
+
+As someone who wants to search for tv shows,
+I WANT to search for shows based on popularity,
+SO THAT I can make a schedule of shows to watch
 
 ## Description
 
@@ -75,9 +69,29 @@ To search for a show click on the text field and type your query then click on t
 
 ## Third Party Add Ons
 
+<<<<<<< HEAD
 - Trakt API: [API Documentation](https://trakt.docs.apiary.io/#)
 - TVMaze API: [API Documentation](https://static.tvmaze.com/apidoc/)
 - Bulma CSS Framework: [Bulma](https://bulma.io)
+=======
+biancamistretta
+[https://github.com/biancamistretta]
+
+## Third Party Add Ons
+
+Trakt API
+
+[https://trakt.docs.apiary.io/#]
+
+TVMaze API
+
+[https://static.tvmaze.com/apidoc/]
+>>>>>>> b2cfc18fc58560aa15d5124fb13d1c023289b565
+
+Bulma CSS Framework
+
+[https://bulma.io]
+
 
 ## License
 
